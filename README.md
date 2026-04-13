@@ -1,6 +1,15 @@
-# Asset Allocation Backtesting
+<h1 align="center">中国市场大类资产配置策略研究 | Asset Allocation Strategy for the Chinese Market from a Global Perspective</h1>
 
-当前语言：中文 | [Switch to English](#english)
+<hr/>
+
+<p align="center">
+  <a href="#简体中文">
+    <img src="https://img.shields.io/badge/LANGUAGE-%E4%B8%AD%E6%96%87-E74C3C?style=for-the-badge&labelColor=4A4F57" alt="Language Chinese"/>
+  </a>
+  <a href="#english">
+    <img src="https://img.shields.io/badge/LANGUAGE-ENGLISH-2F80ED?style=for-the-badge&labelColor=4A4F57" alt="Language English"/>
+  </a>
+</p>
 
 ---
 
