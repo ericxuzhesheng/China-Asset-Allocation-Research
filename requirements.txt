@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+pytest>=8
+# Only needed to refresh source snapshots:
+tushare>=1.4
+requests>=2.31
+lxml>=5

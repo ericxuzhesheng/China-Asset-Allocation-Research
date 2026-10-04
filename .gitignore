@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.venv/
+data/validated_20260930/*
+!data/validated_20260930/manifest.json
+.env
+*.env

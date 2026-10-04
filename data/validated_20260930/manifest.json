@@ -1,0 +1,21 @@
+{
+  "retrieved_at_utc": "2026-10-04T04:36:12.467716+00:00",
+  "cutoff": "2026-09-30",
+  "prices": "Tushare fund_daily + fund_adj; qfq OHLC, endpoint raw snapshots retained",
+  "price_rows": 6369,
+  "currency": "CNY",
+  "valuation": "Tushare index_dailybasic, 000300.SH pe_ttm",
+  "yield": "ChinaBond official historyQuery, 中债国债收益率曲线, 10年, percent divided by 100",
+  "sources": [
+    "https://tushare.pro/document/2?doc_id=127",
+    "https://tushare.pro/document/2?doc_id=199",
+    "https://tushare.pro/document/2?doc_id=128",
+    "https://yield.chinabond.com.cn/cbweb-pbc-web/pbc/historyQuery"
+  ],
+  "limitations": [
+    "Historical vintage downloaded today; not PIT/revision certified",
+    "Adjusted ETF price is reinvested-distribution proxy, not fund NAV",
+    "No documented historical trade-size/liquidity/slippage model",
+    "Tushare yc_cb permission unavailable; official ChinaBond source used explicitly"
+  ]
+}

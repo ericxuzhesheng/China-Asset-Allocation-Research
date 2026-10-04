@@ -1,0 +1,20 @@
+{
+  "price_start": "2018-01-02",
+  "price_end": "2026-09-30",
+  "calibration_end": "2022-12-31",
+  "calibration_signals": 53,
+  "test_start": "2023-01-03",
+  "test_end": "2026-09-30",
+  "threshold_training_median": 0.04974422475570034,
+  "test_decisions": 45,
+  "test_high_equity_decisions": 45,
+  "zero_threshold_high_equity_decisions": 45,
+  "gold_positive_decisions": 42,
+  "erp_source_lag": "Strictly earlier date; maximum seven calendar days old",
+  "status": "Retrospective split; historical data vintage is not point-in-time certified",
+  "currency": "CNY",
+  "copper": "disabled: no validated CNY investable copper return series",
+  "cost": "0/5/10 bp per purchased or sold notional; terminal inventory marked to close",
+  "execution": "next observed trading day open; monthly rebalance; fractional ETF units",
+  "annualization": "252 trading sessions; Sharpe risk-free rate zero"
+}
